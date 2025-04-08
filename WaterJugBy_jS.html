@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Water Jug</title>
+  <style>
+    body { font-family: sans-serif; text-align: center; background: #f4f4f9; }
+    .jugs { display: flex; justify-content: center; gap: 30px; align-items: flex-end; }
+    .jug { width: 80px; border: 2px solid #000; border-radius: 10px; background: #ddd; position: relative; overflow: hidden; margin: 20px; }
+    #jugA { height: 200px; }
+    #jugB { height: 160px; }
+    .water { position: absolute; bottom: 0; width: 100%; background: #00f; transition: 0.3s; }
+    button { margin: 5px; padding: 8px 12px; }
+  </style>
+</head>
+<body>
+  <h2 id="goalText"></h2>
+  <div class="jugs">
+    <div class="jug" id="jugA"><div class="water" id="wA"></div></div>
+    <div class="jug" id="jugB"><div class="water" id="wB"></div></div>
+  </div>
+  <div id="currentstate">(0, 0)</div>
+  <div>
+    <button onclick="act(1)">Fill A</button>
+    <button onclick="act(2)">Fill B</button>
+    <button onclick="act(3)">Empty A</button>
+    <button onclick="act(4)">Empty B</button>
+    <button onclick="act(5)">A→B</button>
+    <button onclick="act(6)">B→A</button>
+  </div>
+  <script>
+    
+    const capA = 5;
+    const capB = 4;
+    const goal = 2;
+
+    let jA = 0, jB = 0;
+
+    document.getElementById('goalText').textContent = `Goal: ${goal}L in ${capA}L Jug`;
+
+    const update = () => {
+      wA.style.height = (jA / capA) * 100 + '%';
+      wB.style.height = (jB / capB) * 100 + '%';
+      currentstate.textContent = `(${jA}, ${jB})`;
+      if (jA === goal || jB === goal) setTimeout(() => alert('🎯 Goal reached!'), 100);
+    };
+
+    const act = x => {
+      switch (x) {
+        case 1: jA = capA; break;
+        case 2: jB = capB; break;
+        case 3: jA = 0; break;
+        case 4: jB = 0; break;
+        case 5: let t1 = Math.min(jA, capB - jB); jA -= t1; jB += t1; break;
+        case 6: let t2 = Math.min(jB, capA - jA); jB -= t2; jA += t2; break;
+      }
+      update();
+    };
+
+    update();
+  </script>
+</body>
+</html>
