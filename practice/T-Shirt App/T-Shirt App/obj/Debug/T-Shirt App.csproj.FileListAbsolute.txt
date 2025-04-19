@@ -1,0 +1,10 @@
+D:\GIt Repos\Sem-II\practice\T-Shirt App\T-Shirt App\bin\Debug\T-Shirt App.exe.config
+D:\GIt Repos\Sem-II\practice\T-Shirt App\T-Shirt App\bin\Debug\T-Shirt App.exe
+D:\GIt Repos\Sem-II\practice\T-Shirt App\T-Shirt App\bin\Debug\T-Shirt App.pdb
+D:\GIt Repos\Sem-II\practice\T-Shirt App\T-Shirt App\obj\Debug\T-Shirt App.csproj.AssemblyReference.cache
+D:\GIt Repos\Sem-II\practice\T-Shirt App\T-Shirt App\obj\Debug\T_Shirt_App.Form1.resources
+D:\GIt Repos\Sem-II\practice\T-Shirt App\T-Shirt App\obj\Debug\T_Shirt_App.Properties.Resources.resources
+D:\GIt Repos\Sem-II\practice\T-Shirt App\T-Shirt App\obj\Debug\T-Shirt App.csproj.GenerateResource.cache
+D:\GIt Repos\Sem-II\practice\T-Shirt App\T-Shirt App\obj\Debug\T-Shirt App.csproj.CoreCompileInputs.cache
+D:\GIt Repos\Sem-II\practice\T-Shirt App\T-Shirt App\obj\Debug\T-Shirt App.exe
+D:\GIt Repos\Sem-II\practice\T-Shirt App\T-Shirt App\obj\Debug\T-Shirt App.pdb

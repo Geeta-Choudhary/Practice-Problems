@@ -1,0 +1,10 @@
+D:\GIt Repos\Sem-II\practice\Fest Event Handling\Fest Event Handling\bin\Debug\Fest Event Handling.exe.config
+D:\GIt Repos\Sem-II\practice\Fest Event Handling\Fest Event Handling\bin\Debug\Fest Event Handling.exe
+D:\GIt Repos\Sem-II\practice\Fest Event Handling\Fest Event Handling\bin\Debug\Fest Event Handling.pdb
+D:\GIt Repos\Sem-II\practice\Fest Event Handling\Fest Event Handling\obj\Debug\Fest Event Handling.csproj.AssemblyReference.cache
+D:\GIt Repos\Sem-II\practice\Fest Event Handling\Fest Event Handling\obj\Debug\Fest_Event_Handling.Form1.resources
+D:\GIt Repos\Sem-II\practice\Fest Event Handling\Fest Event Handling\obj\Debug\Fest_Event_Handling.Properties.Resources.resources
+D:\GIt Repos\Sem-II\practice\Fest Event Handling\Fest Event Handling\obj\Debug\Fest Event Handling.csproj.GenerateResource.cache
+D:\GIt Repos\Sem-II\practice\Fest Event Handling\Fest Event Handling\obj\Debug\Fest Event Handling.csproj.CoreCompileInputs.cache
+D:\GIt Repos\Sem-II\practice\Fest Event Handling\Fest Event Handling\obj\Debug\Fest Event Handling.exe
+D:\GIt Repos\Sem-II\practice\Fest Event Handling\Fest Event Handling\obj\Debug\Fest Event Handling.pdb

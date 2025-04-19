@@ -1,0 +1,10 @@
+D:\GIt Repos\Sem-II\practice\HospitalOPD\HospitalOPD\obj\Debug\HospitalOPD.csproj.AssemblyReference.cache
+D:\GIt Repos\Sem-II\practice\HospitalOPD\HospitalOPD\obj\Debug\HospitalOPD.Form1.resources
+D:\GIt Repos\Sem-II\practice\HospitalOPD\HospitalOPD\obj\Debug\HospitalOPD.Properties.Resources.resources
+D:\GIt Repos\Sem-II\practice\HospitalOPD\HospitalOPD\obj\Debug\HospitalOPD.csproj.GenerateResource.cache
+D:\GIt Repos\Sem-II\practice\HospitalOPD\HospitalOPD\obj\Debug\HospitalOPD.csproj.CoreCompileInputs.cache
+D:\GIt Repos\Sem-II\practice\HospitalOPD\HospitalOPD\bin\Debug\HospitalOPD.exe.config
+D:\GIt Repos\Sem-II\practice\HospitalOPD\HospitalOPD\bin\Debug\HospitalOPD.exe
+D:\GIt Repos\Sem-II\practice\HospitalOPD\HospitalOPD\bin\Debug\HospitalOPD.pdb
+D:\GIt Repos\Sem-II\practice\HospitalOPD\HospitalOPD\obj\Debug\HospitalOPD.exe
+D:\GIt Repos\Sem-II\practice\HospitalOPD\HospitalOPD\obj\Debug\HospitalOPD.pdb

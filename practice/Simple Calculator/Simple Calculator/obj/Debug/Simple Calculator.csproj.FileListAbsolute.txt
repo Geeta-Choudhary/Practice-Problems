@@ -1,0 +1,10 @@
+D:\GIt Repos\Sem-II\practice\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe
+D:\GIt Repos\Sem-II\practice\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+D:\GIt Repos\Sem-II\practice\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.csproj.AssemblyReference.cache
+D:\GIt Repos\Sem-II\practice\Simple Calculator\Simple Calculator\obj\Debug\Simple_Calculator.Form1.resources
+D:\GIt Repos\Sem-II\practice\Simple Calculator\Simple Calculator\obj\Debug\Simple_Calculator.Properties.Resources.resources
+D:\GIt Repos\Sem-II\practice\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.csproj.GenerateResource.cache
+D:\GIt Repos\Sem-II\practice\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.csproj.CoreCompileInputs.cache
+D:\GIt Repos\Sem-II\practice\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.exe
+D:\GIt Repos\Sem-II\practice\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.pdb
+D:\GIt Repos\Sem-II\practice\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.pdb

@@ -1,0 +1,7 @@
+D:\GIt Repos\Sem-II\practice\Demo\Demo\bin\Debug\Demo.exe.config
+D:\GIt Repos\Sem-II\practice\Demo\Demo\bin\Debug\Demo.exe
+D:\GIt Repos\Sem-II\practice\Demo\Demo\bin\Debug\Demo.pdb
+D:\GIt Repos\Sem-II\practice\Demo\Demo\obj\Debug\Demo.csproj.AssemblyReference.cache
+D:\GIt Repos\Sem-II\practice\Demo\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+D:\GIt Repos\Sem-II\practice\Demo\Demo\obj\Debug\Demo.exe
+D:\GIt Repos\Sem-II\practice\Demo\Demo\obj\Debug\Demo.pdb

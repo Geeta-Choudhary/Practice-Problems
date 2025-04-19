@@ -1,0 +1,7 @@
+D:\GIt Repos\Sem-II\practice\OOps Demo\OOps Demo\bin\Debug\OOps Demo.exe.config
+D:\GIt Repos\Sem-II\practice\OOps Demo\OOps Demo\bin\Debug\OOps Demo.exe
+D:\GIt Repos\Sem-II\practice\OOps Demo\OOps Demo\bin\Debug\OOps Demo.pdb
+D:\GIt Repos\Sem-II\practice\OOps Demo\OOps Demo\obj\Debug\OOps Demo.csproj.AssemblyReference.cache
+D:\GIt Repos\Sem-II\practice\OOps Demo\OOps Demo\obj\Debug\OOps Demo.csproj.CoreCompileInputs.cache
+D:\GIt Repos\Sem-II\practice\OOps Demo\OOps Demo\obj\Debug\OOps Demo.exe
+D:\GIt Repos\Sem-II\practice\OOps Demo\OOps Demo\obj\Debug\OOps Demo.pdb
